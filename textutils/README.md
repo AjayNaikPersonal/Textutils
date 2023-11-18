@@ -1,7 +1,7 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+clone it using ---->    git clone https://github.com/AjayNaikPersonal/Textutils.git 
+This project is basically a text utility app which manipulates text that you entered.
+This project is built using react and router dom in react.
 ## Available Scripts
 
 In the project directory, you can run:
